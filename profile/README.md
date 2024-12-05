@@ -166,9 +166,9 @@ Special thanks to our incredible team of developers, past and present, who've he
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by Hoagie Club</sub>
+  <sub>Made with ❤️</sub>
   <br>
-  <sub>© 2024 Hoagie Club. All rights reserved.</sub>
+  <sub>Hoagie Club © 2024.</sub>
 </div>
 
 ---
