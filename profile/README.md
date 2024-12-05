@@ -105,7 +105,7 @@ We put a lot of time and thought into our tooling and build with **industry-stan
 
 - **Linear**: Keeps our development process streamlined and focused. Its opinionated and keyboard-driven workflow aligns perfectly with how we think about project management—fast and always in sync with our code.
 
-## 📊 **Organization Stats**
+## 📊 **Organization Statistics**
 
 <div align="center">
 
@@ -144,7 +144,7 @@ Think you've got what it takes? You have our attention!
 
 1. **Choose A Problem**: Pick an issue/bug that you're itching to solve.
 2. **Show Your Skills**: Fork the repo and submit a thoughtfully crafted PR.
-3. **Join the Discussion**: Engage with our team and show us how you think.
+3. **Join The Discussion**: Engage with our team and show us how you think.
 
 ## 📫 **Connect With Us**
 
