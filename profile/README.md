@@ -93,6 +93,8 @@ We put a lot of time and thought into our tooling and build with **industry-stan
 
 - **Django**: Battle-tested web framework with a powerful ORM and admin interface. Its "batteries-included" philosophy and security features allow us to move quickly while maintaining industry-grade reliability.
 
+- **Gin**: Our high-performance API framework. When milliseconds matter, Gin's zero-allocation router and lightning-fast middleware make it the perfect choice for building high-throughput services like [HoagieMail](https://mail.hoagie.io).
+
 - **Bun**: A blazing-fast all-in-one JavaScript runtime and toolkit built with ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white). Bun is **30x faster than other Node.js alternatives** with native bundling, testing, and package management.
 
 - **uv**: An Python package manager and toolkit written by Princeton alumnus [Charlie Marsh '15](https://www.linkedin.com/in/marshcharles), built with ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white). uv is **10-100x faster than pip** with improved dependency resolution.
