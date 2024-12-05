@@ -150,7 +150,7 @@ Think you've got what it takes? You have our attention!
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-hoagie.io-FF6B6B?style=for-the-badge)](https://hoagie.io)
+[![Website](https://img.shields.io/badge/Website-hoagie.io-FF6B6B?style=for-the-badge)](https://club.hoagie.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hoagie)
 
 </div>
