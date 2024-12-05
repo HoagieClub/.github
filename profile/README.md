@@ -49,7 +49,7 @@ Compelled by our mission? Visit our [website](https://club.hoagie.io) and apply 
 
 <div align="center">
 
-[![Hoagie Plan](https://img.shields.io/badge/Hoagie_Plan-Academic_planning_at_Princeton,_reinvented-4A90E2?style=for-the-badge)](https://github.com/HoagieClub/plan)
+[![Hoagie Plan](https://img.shields.io/badge/Hoagie_Plan-Academic_planning_at_Princeton,_reimagined-4A90E2?style=for-the-badge)](https://github.com/HoagieClub/plan)
 
 [![Hoagie Mail](https://img.shields.io/badge/Hoagie_Mail-Send_emails_to_everyone,_instantly-FF6B6B?style=for-the-badge)](https://github.com/HoagieClub/mail)
 
