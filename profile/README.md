@@ -19,7 +19,7 @@ We are building a cohesive software suite with the goal of empowering Princeton 
 
 ## 🥖 **About Us**
 
-We are a dedicated team of passionate student developers aspiring to build the most impactful applications for the Princeton University community. With cohesive product designs and a clear brand direction, we strive to create a premier experience for students.
+We are a dedicated team of passionate student developers, designers, and product managers aspiring to build the most impactful applications for Princeton students. With cohesive product designs and a clear brand direction, we strive to create a premier digital experience for the Princeton community.
 
 Our ideals are built upon the following pillars:
 
